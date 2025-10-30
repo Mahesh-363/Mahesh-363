@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="A_banner_image_with_dimensions_of_1200x350_pixels_.png" alt="Vommi Uma Mahesh Banner" width="100%">
-</p>
-
 <h1 align="center">👋 Hi there, I'm Vommi Uma Mahesh</h1>
 
 <p align="center">
@@ -15,6 +11,7 @@
 - [⚙️ Tech Stack](#%EF%B8%8F-tech-stack)
 - [🚀 Featured Projects](#-featured-projects)
 - [📊 GitHub Stats](#-github-stats)
+- [🏆 Achievements & Certifications](#-achievements--certifications)
 - [🌐 Connect with Me](#-connect-with-me)
 
 ---
@@ -65,7 +62,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Mahesh-363&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 
-- 🥇 AWS Certified Cloud Practitioner  
+- 🥇 AWS Certified Cloud Practitioner (In Progress)  
 - 🎓 Cloud Associate — Wipro (1 year)  
 - 🧠 Completed Data Analytics Internship (Oasis Infobyte)
 
