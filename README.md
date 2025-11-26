@@ -1,76 +1,92 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=33CCFF&center=true&vCenter=true&width=800&lines=System.out.println(%22Hello+World!%22);Initiating+Cloud+Sequences...;Loading+AWS+Infrastructure...;Vommi+Uma+Mahesh+Profile+Loaded+Successfully+%E2%9C%94%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=280&section=header&text=Vommi%20Uma%20Mahesh&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Cloud%20Support%20Engineer%20%7C%20Automating%20AWS%20with%20Python&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/vommi-uma-mahesh">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_on_Professional_Network-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&pause=1000&color=0072FF&center=true&vCenter=true&width=600&lines=Building+Resilient+Cloud+Infrastructure...;Automating+Manual+Workflows+with+Boto3...;Exploring+DevOps+Best+Practices...;Always+Optimizing.+Always+Learning." alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/vommi-uma-mahesh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:umamahesh7901367554@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send_an_Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/Mahesh-363">
-    <img src="https://img.shields.io/badge/GitHub-View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Mahesh-363" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
 </div>
 
-<br />
-
-<h3 align="center">
-  ☁️ Cloud Support Engineer | 🐍 Python Automator | 🐧 Linux Enthusiast
-</h3>
-
-<p align="center">
-   <i>"I don't just manage infrastructure; I write code to manage it for me."</i>
-   <br /><br />
-   Currently at <b>Wipro</b>, I specialize in bridging the gap between <b>Support</b> and <b>DevOps</b>. <br />
-   My daily driver is the <b>AWS Console</b>, my weapon of choice is <b>Boto3</b>, and my playground is the <b>Linux Terminal</b>.
-</p>
-
----
-
-<h2 align="center">⚡ Technological Arsenal</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,python,linux,bash,docker,terraform,git,github,vscode,flask,mysql,vim&theme=dark&perline=12" />
-  </a>
-</p>
-
----
-
-<h2 align="center">📊 The Control Center</h2>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-363&layout=compact&theme=tokyonight&hide_border=true&title_color=33CCFF" height="160" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahesh-363&show_icons=true&theme=tokyonight&hide_border=true&title_color=33CCFF&count_private=true" height="160" alt="GitHub Stats" />
+  
+> 💡 *"I transform complex manual processes into one-click Python scripts."*
+
+Hi, I'm **Mahesh**. I am a **Cloud Support Engineer** at **Wipro** with a passion for the operational side of the cloud. I don't just solve tickets; I analyze the root cause and build automation to prevent them from happening again.
 </div>
 
-<br />
+<br/>
+
+---
+
+<h2 align="center">🛠️ Technical Ecosystem</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh-363&theme=tokyonight&hide_border=true&stroke=000000&background=0d1117&ring=33CCFF&fire=33CCFF&currStreakNum=33CCFF" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td align="center" width="33%"><b>☁️ Cloud Infrastructure</b></td>
+      <td align="center" width="33%"><b>💻 Core Development</b></td>
+      <td align="center" width="33%"><b>⚙️ DevOps & Tools</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=aws,linux&theme=light" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python,bash,html,css&theme=light" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker,terraform,git,github,vscode,flask&theme=light" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-<h2 align="center">🚀 Deployed Protocols (Projects)</h2>
+<h2 align="center">🚀 Engineering Highlights</h2>
 
-| **Project** | **Architecture** | **Status** |
-| :--- | :--- | :---: |
-| ☁️ **AWS Automation Toolkit**<br/>_CLI tool to automate EC2/S3 lifecycle management._ | `Python` `Boto3` `Argparse` | 🟢 v1.0 |
-| 🧭 **Serverless Portfolio**<br/>_Zero-server architecture with global caching._ | `S3` `CloudFront` `Lambda` | 🟢 Live |
-| ⚡ **CloudWatch Sentinel**<br/>_Event-driven bot for infrastructure alerts._ | `SNS` `EventBridge` `ChatOps` | 🟡 Beta |
-| 🐳 **Dockerized Flask App**<br/>_Containerized microservice with CI/CD._ | `Docker` `GitHub Actions` | 🟢 v2.1 |
+| 📦 Project | 📝 The Solution | 🔧 Tech Stack |
+| :--- | :--- | :--- |
+| **AWS Automation Toolkit** | CLI utility that reduced EC2 provisioning time by **40%** via Boto3 scripts. | `Python` `AWS SDK` |
+| **Serverless Portfolio** | Deployed a static site with global CDN caching and Lambda-based form handling. | `S3` `CloudFront` `Lambda` |
+| **CloudWatch Sentinel** | Real-time incident response bot that pipes Critical Alarms directly to Slack. | `SNS` `ChatOps` `Python` |
+| **Containerized Flask** | A microservice demo showcasing "Build Once, Run Anywhere" principles. | `Docker` `GitHub Actions` |
+
+<br/>
 
 ---
 
-<h2 align="center">🐍 Contribution Activity</h2>
+<h2 align="center">📊 Impact & Analytics</h2>
+
 <div align="center">
-  <img src="https://github.com/Mahesh-363/Mahesh-363/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahesh-363&show_icons=true&theme=calm&hide_border=true&bg_color=ffffff" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-363&layout=compact&theme=calm&hide_border=true&bg_color=ffffff" height="150" alt="languages graph" />
 </div>
 
-<br />
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh-363&theme=calm&hide_border=true&fire=0072FF&ring=0072FF&currStreakNum=000000" />
+</div>
+
+---
+
+<div align="center">
+  <br/>
+  <img src="https://img.shields.io/badge/Status-Learning_Kubernetes_☸️-0072FF?style=flat-square" />
+  <img src="
