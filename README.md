@@ -1,74 +1,76 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Vommi%20Uma%20Mahesh&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Cloud%20Support%20Engineer%20%7C%20Python%20%7C%20AWS&descAlignY=55&descAlign=50" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=33CCFF&center=true&vCenter=true&width=800&lines=System.out.println(%22Hello+World!%22);Initiating+Cloud+Sequences...;Loading+AWS+Infrastructure...;Vommi+Uma+Mahesh+Profile+Loaded+Successfully+%E2%9C%94%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  
-  <a href="https://github.com/Mahesh-363">
-    <img src="https://img.shields.io/github/followers/Mahesh-363?label=Followers&style=social" />
+  <a href="https://linkedin.com/in/vommi-uma-mahesh">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_on_Professional_Network-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <br/>
-  
-  **Building the cloud, one script at a time. 🚀**
-  <br/><br/>
-  
-  <a href="https://linkedin.com/in/vommi-uma-mahesh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:umamahesh7901367554@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:umamahesh7901367554@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send_an_Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Mahesh-363">
+    <img src="https://img.shields.io/badge/GitHub-View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
----
+<br />
 
-### ⚡ Behind the Code
-
-<table>
-  <tr>
-    <td width="60%">
-      I am a passionate **Cloud Support Engineer** focused on **AWS** and **Python**. I have over a year of experience working at **Wipro**, where I honed my skills in Linux environments and cloud troubleshooting.
-      <br/><br/>
-      🔹 **I love:** Automating boring tasks with Python.<br/>
-      🔹 **I use:** Boto3 to make AWS talk to my code.<br/>
-      🔹 **I am:** Currently diving deep into DevOps (Docker & CI/CD).
-    </td>
-    <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-363&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Tech Stack & Tools
+<h3 align="center">
+  ☁️ Cloud Support Engineer | 🐍 Python Automator | 🐧 Linux Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,python,linux,bash,docker,terraform,flask,git,github,vscode,html,css&perline=12" />
+   <i>"I don't just manage infrastructure; I write code to manage it for me."</i>
+   <br /><br />
+   Currently at <b>Wipro</b>, I specialize in bridging the gap between <b>Support</b> and <b>DevOps</b>. <br />
+   My daily driver is the <b>AWS Console</b>, my weapon of choice is <b>Boto3</b>, and my playground is the <b>Linux Terminal</b>.
 </p>
 
 ---
 
-### 📂 Featured Repositories
-
-| 📦 Project | 📝 Description | 🔧 Stack |
-|:---:|:---|:---:|
-| **AWS Auto-Toolkit** | A robust CLI tool for automating **EC2 & S3** operations, reducing manual click-ops. | `Python` `Boto3` |
-| **Serverless Portfolio** | High-performance personal site utilizing **CloudFront** caching and **Lambda** triggers. | `AWS` `S3` `Lambda` |
-| **CloudWatch Bot** | Real-time infrastructure alerting system integrated with **Slack/SNS**. | `SNS` `Python` |
-| **Dockerized Flask** | A containerized web application demonstrating modern **CI/CD** pipelines. | `Docker` `Actions` |
-
----
-
-### 📈 GitHub Activity
-
+<h2 align="center">⚡ Technological Arsenal</h2>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh-363&theme=tokyonight&hide_border=true" height="150" />
-    <br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-363&theme=react-dark&area=true&hide_border=true" width="100%" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,python,linux,bash,docker,terraform,git,github,vscode,flask,mysql,vim&theme=dark&perline=12" />
+  </a>
 </p>
 
 ---
+
+<h2 align="center">📊 The Control Center</h2>
 
 <div align="center">
-  <h3>🏆 Certifications & Experience</h3>
-  <img src="https://img.shields.io/badge/Wipro-Cloud_Associate-blue?logo=wipro" />
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_(Loading...)-FF9900?logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Oasis_Infobyte-Data_Analytics_Intern-green" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-363&layout=compact&theme=tokyonight&hide_border=true&title_color=33CCFF" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahesh-363&show_icons=true&theme=tokyonight&hide_border=true&title_color=33CCFF&count_private=true" height="160" alt="GitHub Stats" />
 </div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh-363&theme=tokyonight&hide_border=true&stroke=000000&background=0d1117&ring=33CCFF&fire=33CCFF&currStreakNum=33CCFF" alt="GitHub Streak" />
+</div>
+
+---
+
+<h2 align="center">🚀 Deployed Protocols (Projects)</h2>
+
+| **Project** | **Architecture** | **Status** |
+| :--- | :--- | :---: |
+| ☁️ **AWS Automation Toolkit**<br/>_CLI tool to automate EC2/S3 lifecycle management._ | `Python` `Boto3` `Argparse` | 🟢 v1.0 |
+| 🧭 **Serverless Portfolio**<br/>_Zero-server architecture with global caching._ | `S3` `CloudFront` `Lambda` | 🟢 Live |
+| ⚡ **CloudWatch Sentinel**<br/>_Event-driven bot for infrastructure alerts._ | `SNS` `EventBridge` `ChatOps` | 🟡 Beta |
+| 🐳 **Dockerized Flask App**<br/>_Containerized microservice with CI/CD._ | `Docker` `GitHub Actions` | 🟢 v2.1 |
+
+---
+
+<h2 align="center">🐍 Contribution Activity</h2>
+<div align="center">
+  <img src="https://github.com/Mahesh-363/Mahesh-363/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+<br />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</p>
