@@ -1,262 +1,82 @@
-# 🛡️ EC2 Snapshot Automation Using Python & Boto3
+<h1 align="center">👋 Hi there, I'm Vommi Uma Mahesh</h1>
 
-Automates **incremental EBS snapshot creation** for EC2 volumes using a Python script with Boto3, helping with **backup strategy, disaster recovery, and cost optimization**.
-
----
-
-## 🎯 Project Objective
-- Automatically create scheduled backups for EC2 volumes
-- Tag snapshots for easy tracking & retention
-- Avoid manual snapshot creation
-- Demonstrate automation & IAM-based access
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FFFF&center=true&vCenter=true&width=700&lines=Cloud+Support+Engineer+☁️;AWS+%7C+Python+%7C+Linux+Explorer+🚀;Automating+Cloud+Workflows+and+Deployments+⚙️;Always+Learning+New+Things+🌱" alt="Typing Animation">
+</p>
 
 ---
 
-## 🏗️ Architecture Overview
-
-```
-[Event Trigger/Manual] → [Python + Boto3 Script] → [AWS APIs]
-                                   ↓
-                               [EBS Snapshots]
-                                   ↓
-                       [Retention via Tags/Policy]
-```
+## 🧭 Table of Contents
+- [🌩️ About Me](#-about-me)
+- [⚙️ Tech Stack](#%EF%B8%8F-tech-stack)
+- [🚀 Featured Projects](#-featured-projects)
+- [📊 GitHub Stats](#-github-stats)
+- [🏆 Achievements & Certifications](#-achievements--certifications)
+- [🌐 Connect with Me](#-connect-with-me)
 
 ---
 
-## ⚙️ Tech Used
-- **AWS EC2**
-- **AWS EBS**
-- **Python**
-- **Boto3**
-- **IAM**
+## 🌩️ About Me
+🌟 Cloud enthusiast passionate about **building, managing, and automating scalable AWS infrastructures**.  
+💡 Hands-on with **EC2, S3, IAM, CloudWatch**, and strong in **Linux & Python scripting**.  
+⚙️ I simplify complex workflows through automation and efficient architecture design.  
+📚 Learning DevOps practices (CI/CD, Docker, IaC) — aiming to grow into a Cloud Solutions Architect.
 
 ---
 
-## 🛠️ Setup & Execution
-
-### 1️⃣ Install Requirements
-```bash
-pip install boto3
-```
-
-### 2️⃣ Configure AWS Credentials (CLI or IAM Role)
-```bash
-aws configure
-```
-
-### 3️⃣ Run the Script
-```bash
-python3 snapshot.py
-```
+## ⚙️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,python,linux,bash,git,github,vscode,html,css,flask,docker,terraform&theme=dark" />
+</p>
 
 ---
 
-## 🔐 IAM Permissions Required
-```json
-{
-  "Version": "2012-10-17",
-  "Statement": [
-    {
-      "Effect": "Allow",
-      "Action": [
-        "ec2:CreateSnapshot",
-        "ec2:DescribeInstances",
-        "ec2:DescribeVolumes",
-        "ec2:CreateTags"
-      ],
-      "Resource": "*"
-    }
-  ]
-}
-```
+## 🚀 Featured Projects
+| Project | Description | Tech Used |
+|----------|--------------|------------|
+| ☁️ **AWS Automation Toolkit** | CLI tool to automate EC2, S3, and IAM workflows using Python + Boto3. | AWS, Python, Boto3 |
+| 🧭 **Serverless Portfolio Site** | Hosted on S3 + CloudFront with Lambda backend for form handling. | AWS, S3, CloudFront, Lambda |
+| ⚡ **CloudWatch Notifier Bot** | Alerts from CloudWatch delivered to Slack via SNS + Lambda. | CloudWatch, SNS, Python |
+| 🐳 **Dockerized Flask App** | Flask app containerized with Docker and deployed via GitHub Actions. | Flask, Docker, GitHub Actions |
 
 ---
 
-## 🚀 Features
-✔ Tags snapshots with timestamps  
-✔ Automates volume identification  
-✔ No console action required  
-✔ Scalable to multiple EC2 instances  
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahesh-363&show_icons=true&theme=tokyonight&hide_border=true" height="170em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh-363&theme=tokyonight&hide_border=true" height="170em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-363&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-363&theme=react-dark&area=true" width="100%" alt="Contribution Graph" />
+</p>
 
 ---
 
-## 🧠 Future Enhancements
-| Feature | Benefit |
-|--------|---------|
-| Add Lambda scheduler | Fully serverless automation |
-| Retention policy | Auto-delete old snapshots |
-| SNS Notifications | Alert on failures |
+## 🏆 Achievements & Certifications
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahesh-363&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
+</p>
+
+- 🥇 AWS Certified Cloud Practitioner (In Progress)  
+- 🎓 Cloud Associate — Wipro (1 year)  
+- 🧠 Completed Data Analytics Internship (Oasis Infobyte)
 
 ---
 
-## 👨‍💻 Author
-📌 **Vommi Uma Mahesh** — AWS Cloud Support Engineer
+## 🌐 Connect with Me
+<p align="center">
+  <a href="mailto:umamahesh7901367554@gmail.com"><img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Mahesh-363"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/vommi-uma-mahesh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 ---
 
----
-
-# 🌐 Flask App on AWS EC2 + S3 (Static & Upload Storage)
-
-Production-style Flask application hosted on **EC2**, storing static assets & user uploads in **Amazon S3**, secured using **IAM roles** (no access keys).
-
----
-
-## 🏗️ Architecture Diagram
-
-```
-User → EC2 (Flask App) → IAM Role → S3 (Public Read, Private Write)
-                 ↓
-            Elastic IP + Security Group
-```
-
----
-
-## 🛠️ Tech Stack
-- **EC2 (Ubuntu)**
-- **S3 (Static + Uploads)**
-- **IAM Role (Write-only to S3)**
-- **Flask + Python + Boto3**
-
----
-
-### 🚀 Deployment Steps
-
-#### 1️⃣ Launch EC2 (Ubuntu)
-Open ports **80**, optional **443**
-
-#### 2️⃣ Install Flask + Boto3
-```bash
-sudo apt update
-sudo apt install python3-pip -y
-pip3 install flask boto3
-```
-
-#### 3️⃣ Attach IAM Role With This Policy
-```json
-{
-  "Effect": "Allow",
-  "Action": ["s3:PutObject"],
-  "Resource": "arn:aws:s3:::YOUR_BUCKET/*"
-}
-```
-
-#### 4️⃣ S3 Public Read Bucket Policy
-```json
-{
-  "Effect": "Allow",
-  "Principal": "*",
-  "Action": "s3:GetObject",
-  "Resource": "arn:aws:s3:::YOUR_BUCKET/*"
-}
-```
-
----
-
-### 🛡️ Security Best Practices
-✔ No access keys in code  
-✔ IAM Role only allows write  
-✔ Public read allowed via bucket policy  
-✔ SG restricted to HTTP/HTTPS  
-
----
-
-### 🔮 Future Upgrades
-| Upgrade | Benefit |
-|--------|---------|
-| CloudFront | Global caching |
-| HTTPS (Certbot) | Encryption |
-| GitHub Actions | CI/CD deployment |
-
----
-
-📌 **Vommi Uma Mahesh — Cloud Support Engineer**
-
----
-
----
-
-# ☁️ AWS Cloud Projects — Portfolio
-
-This repository contains multiple **AWS projects focused on cloud support, automation, DevOps fundamentals, and scalable web application design** using Python, Linux, and AWS services.
-
----
-
-## 📌 Projects Included
-
-| Project | Skills | Services |
-|--------|--------|----------|
-| EC2 Snapshot Automation | Backup + Boto3 | EC2, EBS, IAM |
-| Flask EC2 + S3 App | Storage + IAM | EC2, S3, IAM |
-| Monitoring Alerts | Observability | CloudWatch, SNS |
-| S3 Static Hosting | Website Hosting | S3, CloudFront |
-
----
-
-## 🧠 Skills Demonstrated
-✔ Linux Administration  
-✔ Python Automation (Boto3)  
-✔ IAM Best Practices  
-✔ EC2 & S3 Real Deployments  
-✔ Monitoring & Alerts  
-✔ Networking & SG Configuration  
-
----
-
-## 🎯 Target Role
-> **AWS Cloud Support Engineer | Python | Linux | Automation**
-
----
-
-## 🔮 Upcoming Additions
-| Feature | Use Case |
-|--------|----------|
-| Lambda Auto-Backups | Serverless automation |
-| CI/CD Deployments | DevOps workflow |
-| Cost Monitoring Dashboards | FinOps awareness |
-
----
-
-## 👨‍💻 Author
-📌 **Vommi Uma Mahesh**
-
----
-
----
-
-# 🏆 AWS Cloud Support Engineer | Python | Linux | Automation
-
-Welcome to my cloud engineering portfolio, showcasing **real-world AWS deployments**, automation scripts, and secure infrastructure design using **Python, Linux & AWS services**.
-
----
-
-## 🌩️ Highlighted Projects
-
-| Project | Summary | Tech |
-|---------|---------|------|
-| EC2 Snapshot Automation | Automated backup system using Boto3 | EC2, EBS, IAM, Python |
-| Flask App on EC2 + S3 | Scalable web deployment with secure S3 storage | EC2, S3, IAM, Python |
-| Multi-Project Cloud Repo | Case-study collection | EC2, S3, CloudWatch, Linux |
-
----
-
-## 💡 Focus Areas
-🔐 Security-first IAM  
-⚙️ Infrastructure Automation  
-📦 EC2 + S3 Workloads  
-🐧 Linux Administration  
-📊 Monitoring & Troubleshooting  
-
----
-
-## 📬 Contact
-📌 GitHub: **Mahesh-363**  
-📌 LinkedIn: *linkedin.com/in/vommi-uma-mahesh*  
-📌 Email: **umamahesh7901367554@gmail.com**
-
----
-
-### 🌟 Vision
-> “Build secure, scalable & automated cloud systems that make infrastructure simple and efficient.”
-
+<p align="center">
+  <em>"Keep learning, keep building — the cloud is limitless ☁️"</em>
+</p>
