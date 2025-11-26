@@ -1,82 +1,77 @@
-<h1 align="center">👋 Hi there, I'm Vommi Uma Mahesh</h1>
+<div align="center">
+  <h1 align="center">Hi, I'm Vommi Uma Mahesh 👋</h1>
+  <h3>Cloud Support Engineer | AWS & Python Specialist</h3>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Automating+Cloud+Infrastructure;Building+Resilient+AWS+Architectures;Scripting+Solutions+in+Python;Exploring+DevOps+Best+Practices" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FFFF&center=true&vCenter=true&width=700&lines=Cloud+Support+Engineer+☁️;AWS+%7C+Python+%7C+Linux+Explorer+🚀;Automating+Cloud+Workflows+and+Deployments+⚙️;Always+Learning+New+Things+🌱" alt="Typing Animation">
+  <a href="https://www.linkedin.com/in/vommi-uma-mahesh">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:umamahesh7901367554@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🧭 Table of Contents
-- [🌩️ About Me](#-about-me)
-- [⚙️ Tech Stack](#%EF%B8%8F-tech-stack)
-- [🚀 Featured Projects](#-featured-projects)
-- [📊 GitHub Stats](#-github-stats)
-- [🏆 Achievements & Certifications](#-achievements--certifications)
-- [🌐 Connect with Me](#-connect-with-me)
+### 👨‍💻 About Me
+
+I am a **Cloud Support Engineer** with experience at **Wipro**, specializing in the intersection of **Infrastructure and Automation**. My passion lies in eliminating manual toil by writing efficient Python scripts and designing scalable AWS environments.
+
+* 🔭 I’m currently working on **Advanced Boto3 automation patterns**.
+* 🌱 I’m currently learning **Docker containerization & Terraform (IaC)**.
+* 💡 I believe in **Infrastructure as Code** and **Serverless first** methodologies.
+* 🎓 **Goal:** Transitioning into a Cloud Solutions Architect role.
 
 ---
 
-## 🌩️ About Me
-🌟 Cloud enthusiast passionate about **building, managing, and automating scalable AWS infrastructures**.  
-💡 Hands-on with **EC2, S3, IAM, CloudWatch**, and strong in **Linux & Python scripting**.  
-⚙️ I simplify complex workflows through automation and efficient architecture design.  
-📚 Learning DevOps practices (CI/CD, Docker, IaC) — aiming to grow into a Cloud Solutions Architect.
+### 🛠️ Technical Arsenal
+
+| **Cloud & Infrastructure** | **Languages & Scripting** | **DevOps & Tools** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=aws,linux" /> | <img src="https://skillicons.dev/icons?i=python,bash,html,css" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,terraform,vscode,flask" /> |
+| EC2, S3, IAM, CloudWatch, SNS | Automation, Boto3, Web | CI/CD Concepts, Containerization |
 
 ---
 
-## ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,python,linux,bash,git,github,vscode,html,css,flask,docker,terraform&theme=dark" />
-</p>
+### 🚀 Key Projects
+
+#### ☁️ [AWS Automation Toolkit](https://github.com/Mahesh-363)
+> *Python, Boto3, AWS CLI*
+* **The Problem:** Manual provisioning of EC2 instances and S3 buckets was time-consuming.
+* **The Solution:** Developed a CLI tool using Python and Boto3 to automate lifecycle management.
+* **Result:** Reduced provisioning time significantly and standardized resource tagging.
+
+#### 🧭 [Serverless Portfolio Architecture](https://github.com/Mahesh-363)
+> *AWS S3, CloudFront, Lambda, API Gateway*
+* Hosted a static site on S3 with global caching via CloudFront.
+* Implemented a serverless backend using **AWS Lambda** to handle contact form submissions without managing a server.
+
+#### ⚡ [CloudWatch Incident Notifier](https://github.com/Mahesh-363)
+> *CloudWatch, SNS, Lambda*
+* An event-driven monitoring bot that captures CloudWatch alarms and pushes real-time alerts to Slack/Email via SNS.
 
 ---
 
-## 🚀 Featured Projects
-| Project | Description | Tech Used |
-|----------|--------------|------------|
-| ☁️ **AWS Automation Toolkit** | CLI tool to automate EC2, S3, and IAM workflows using Python + Boto3. | AWS, Python, Boto3 |
-| 🧭 **Serverless Portfolio Site** | Hosted on S3 + CloudFront with Lambda backend for form handling. | AWS, S3, CloudFront, Lambda |
-| ⚡ **CloudWatch Notifier Bot** | Alerts from CloudWatch delivered to Slack via SNS + Lambda. | CloudWatch, SNS, Python |
-| 🐳 **Dockerized Flask App** | Flask app containerized with Docker and deployed via GitHub Actions. | Flask, Docker, GitHub Actions |
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahesh-363&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-363&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahesh-363&show_icons=true&theme=tokyonight&hide_border=true" height="170em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh-363&theme=tokyonight&hide_border=true" height="170em"/>
-</p>
+### 🏆 Milestones
+* 💼 **Cloud Associate @ Wipro** (1 Year Experience)
+* 🧠 **Data Analytics Intern** @ Oasis Infobyte
+* 🚧 **AWS Certified Cloud Practitioner** (In Progress)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-363&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-363&theme=react-dark&area=true" width="100%" alt="Contribution Graph" />
-</p>
-
----
-
-## 🏆 Achievements & Certifications
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahesh-363&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
-
-- 🥇 AWS Certified Cloud Practitioner (In Progress)  
-- 🎓 Cloud Associate — Wipro (1 year)  
-- 🧠 Completed Data Analytics Internship (Oasis Infobyte)
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="mailto:umamahesh7901367554@gmail.com"><img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Mahesh-363"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/vommi-uma-mahesh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
-
----
-
-<p align="center">
-  <em>"Keep learning, keep building — the cloud is limitless ☁️"</em>
-</p>
+<div align="center">
+  <br>
+  <i>"Simplicity is the soul of efficiency."</i>
+</div>
