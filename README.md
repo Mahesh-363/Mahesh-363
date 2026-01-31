@@ -33,9 +33,9 @@ while system.is_in_production():
     trust += 1
 ```
 
-<p align="center">
+<!-- <p align="center">
   <sub>live code • auto-rotating • engineer brain online</sub>
-</p>
+</p> -->
 
 ---
 
