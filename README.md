@@ -32,9 +32,9 @@ while company.in_recession:
     stay_employed = True
 ```
 
-<p align="center">
+<!-- <p align="center">
   <sub>hover to pause • auto-rotates • live engineer mood</sub>
-</p>
+</p> -->
 
 ---
 
