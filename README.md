@@ -128,6 +128,11 @@ Educational platform adapting difficulty based on user performance data.
   />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-363&theme=tokyo-night" />
+</p>
+
+
 
 ## Contact
 
