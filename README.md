@@ -109,14 +109,25 @@ Educational platform adapting difficulty based on user performance data.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahesh-363&show_icons=true&theme=transparent&hide_border=true"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Mahesh-363&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh-363&theme=transparent&hide_border=true"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Mahesh-363&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    height="165"
+  />
 </p>
 
----
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-363&theme=tokyo-night&hide_border=true" 
+  />
+</p>
+
 
 ## Contact
 
