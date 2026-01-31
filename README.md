@@ -1,13 +1,13 @@
 <!-- ========================================================= -->
-<!-- ✨ NEXT-LEVEL PREMIUM GITHUB PROFILE README ✨ -->
+<!-- ✨ PREMIUM GITHUB PROFILE README (REFINED) ✨ -->
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:1e293b&height=180&section=header&text=Vommi%20Uma%20Mahesh&fontSize=42&fontColor=E5E7EB&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=170&section=header&text=Vommi%20Uma%20Mahesh&fontSize=40&fontColor=E5E7EB&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1200&color=94A3B8&center=true&vCenter=true&width=900&lines=Backend+%26+Cloud+Engineer;Python+%7C+Django+%7C+AWS;Production+Systems+%7C+Clean+Architecture;Reliability+Over+Noise" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&pause=1300&color=94A3B8&center=true&vCenter=true&width=900&lines=Backend+%26+Cloud+Engineer;Python+%7C+Django+%7C+AWS;Production-Grade+Systems;Reliability+%E2%86%92+Clarity+%E2%86%92+Maintainability" />
 </p>
 
 <p align="center">
@@ -26,28 +26,28 @@
 
 ## About
 
-Backend & Cloud Engineer with hands-on experience building, maintaining, and supporting **production-grade systems**.
+Backend & Cloud Engineer with hands-on experience building, maintaining, and supporting **production-grade backend systems**.
 
-My work lives where reliability matters:
+My focus areas include:
 - Backend APIs and service layers  
 - Relational databases  
 - Linux-based environments  
-- Cloud infrastructure on AWS  
+- AWS cloud infrastructure  
 
-I focus on **clarity, stability, and long-term maintainability**.  
-Good systems should be understandable, observable, and boring in production.
+I value **clarity, stability, and long-term maintainability** over short-term fixes.  
+Well-designed systems should be understandable, observable, and calm in production.
 
 ---
 
 ## Professional Focus
 
-- Backend development with **Python and Django**
-- RESTful API design and service-layer architecture
+- Backend development using **Python and Django**
+- RESTful API design and clean service architecture
 - Relational databases (**MySQL, PostgreSQL**)
-- AWS infrastructure (**EC2, IAM, CloudWatch**)
-- Linux environments and operational debugging
+- AWS services (**EC2, IAM, CloudWatch**)
+- Linux environments and production debugging
 
-Comfortable supporting live systems, resolving production issues, and collaborating across teams.
+Comfortable working with live systems, resolving incidents, and collaborating across teams.
 
 ---
 
@@ -77,7 +77,7 @@ Comfortable supporting live systems, resolving production issues, and collaborat
 <td width="50%">
 
 **FreeAI – Django E-Commerce Platform**  
-Backend-focused full-stack application with structured services, authentication, and scalable design.
+Backend-focused full-stack application emphasizing structured services and scalability.
 
 </td>
 <td width="50%">
@@ -92,13 +92,13 @@ Automation-driven workflow system using event-based orchestration and AI integra
 <td width="50%">
 
 **AWS Cloud & DevOps Portfolio**  
-Hands-on AWS infrastructure demonstrating deployment, access control, and monitoring best practices.
+Hands-on AWS infrastructure demonstrating deployment, access control, and monitoring.
 
 </td>
 <td width="50%">
 
 **Adaptive Learning Game**  
-Educational system that dynamically adjusts difficulty based on user performance data.
+Educational platform adapting difficulty based on user performance data.
 
 </td>
 </tr>
@@ -137,5 +137,5 @@ Educational system that dynamically adjusts difficulty based on user performance
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:020617&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:020617&height=85&section=footer"/>
 </p>
