@@ -1,8 +1,11 @@
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ========================================================= -->
+<!-- 🔥 PREMIUM INTERACTIVE GITHUB PROFILE README 🔥 -->
+<!-- Copy → Paste → Commit → Enjoy recruiter reactions -->
+<!-- ========================================================= -->
+
+<!-- ========== HERO / ANIMATED HEADLINE ========== -->
 <h1 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vommi+Uma+Mahesh;Backend+%26+Cloud+Engineer;I+Build+Reliable+Systems+That+Scale;Python+%7C+AWS+%7C+Linux+%7C+APIs"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=34&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Vommi+Uma+Mahesh;Backend+%26+Cloud+Engineer;I+Build+Reliable+Systems+That+Scale;Python+%7C+AWS+%7C+Linux+%7C+APIs;Production+Mindset+Over+Flashy+Demos" />
 </h1>
 
 <p align="center">
@@ -23,7 +26,7 @@
 
 ---
 
-<!-- ===================== LIVE CODE VIBE ===================== -->
+<!-- ========== LIVE CODE VIBE ========== -->
 ```python
 while company.in_recession:
     do_work_of_three_devs()
