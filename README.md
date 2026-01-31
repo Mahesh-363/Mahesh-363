@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Vommi Uma Mahesh</h1>
-<h3 align="center">Cloud Support Engineer | AWS | Linux | Python Automation</h3>
+<h3 align="center">Backend & Cloud Engineer | Python | AWS | Linux</h3>
 
 <p align="center">
   <a href="https://mahesh-pre-portfolio.vercel.app/">🌐 Portfolio</a> •
@@ -8,72 +8,98 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=38BDF8&center=true&vCenter=true&width=750&lines=Cloud+Support+Engineer+with+1+Year+of+AWS+Experience;EC2+%7C+S3+%7C+IAM+%7C+CloudWatch;Linux+Troubleshooting+%7C+Python+%28Boto3%29+Automation;Building+Reliable+and+Scalable+Cloud+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=38BDF8&center=true&vCenter=true&width=800&lines=Backend+and+Cloud+Engineer;Python+%7C+Django+%7C+AWS;REST+APIs+%7C+Databases+%7C+Linux;Focused+on+Reliable+Production+Systems" />
 </p>
 
 ---
 
-## ☁️ About Me
+## 👨‍💻 About Me
 
-I’m a **Cloud Support Engineer with 1 year of hands-on experience** working on real AWS infrastructure in a production environment.
+Backend and Cloud Engineer with hands-on experience building, maintaining, and supporting **production-ready web applications**.
 
-- 💼 Former **Cloud Associate at Wipro (Dec 2022 – Jan 2024)**
-- ☁️ Experience with **EC2, S3, IAM, CloudWatch, Lambda, RDS, VPC**
-- 🐧 Strong in **Linux troubleshooting** and **CLI-based operations**
-- 🐍 Automate AWS workflows using **Python (Boto3)** to reduce manual effort
-- 📊 Focused on **monitoring, reliability, and cost-aware cloud design**
+I work close to the system layer: APIs, databases, Linux servers, and cloud infrastructure. I value **reliability, clarity, and long-term maintainability** over quick fixes and short-term wins.
 
-I believe in boring, stable systems that *just work*. Flash is optional. Uptime isn’t.
+I prefer systems that fail loudly, recover gracefully, and stay boring in production.
 
 ---
 
-## 🧰 Tech Stack
+## 💼 Professional Experience
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,python,linux,bash,git,github,vscode,docker,flask&theme=dark" />
-</p>
+Backend-focused Python developer with **over one year of enterprise-level exposure**, working with **Python, Django, and AWS-backed systems**.
 
-**Cloud & AWS**
-- EC2, S3, IAM, Lambda, RDS  
-- CloudWatch, CloudTrail  
-- VPC, Auto Scaling, ELB  
+**Core experience includes:**
+- RESTful API design and backend architecture
+- Relational databases: **MySQL and PostgreSQL**
+- Linux-based environments and CLI operations
+- AWS services including **EC2, IAM, CloudWatch**
 
-**Programming & Automation**
-- Python (Boto3)
-- Bash scripting
-- SQL / MySQL
-
-**OS & Tools**
-- Linux (Ubuntu, Amazon Linux)
-- Git, GitHub
-- Jira, CLI tools
+Experienced in **debugging and resolving production issues**, supporting live systems, and collaborating with cross-functional teams. I write **clean, maintainable backend code** aligned with business and technical requirements.
 
 ---
 
-## 💼 Work Experience
+## 🎯 Career Focus
 
-### 🏢 Cloud Support Engineer  
-**Wipro | Noida, Uttar Pradesh**  
-**Dec 2022 – Jan 2024**
+Actively seeking **Junior Backend Developer, Python Developer, Cloud Support, or Full-Stack Trainee** roles.
 
-- Deployed and maintained **EC2 instances** using custom AMIs and automated User Data scripts  
-- Managed **S3 buckets** with versioning, lifecycle policies, and IAM-based access control  
-- Automated **S3 backups and CloudWatch monitoring** using Python (Boto3), reducing manual work by ~40%  
-- Provided **Linux server troubleshooting** and application-level support  
-- Assisted teams with **IAM policies, roles, and least-privilege access design**  
-- Built internal Python tools for recurring AWS tasks (snapshots, S3 sync, health checks)
+Interested in teams that prioritize:
+- System reliability
+- Clean architecture
+- Documentation and clarity
+- Long-term maintainability over shortcuts
+
+---
+
+> *“Reliable systems are built by engineers who value clarity, responsibility, and long-term thinking.”*
+
+---
+
+## 🛠️ Skills
+
+### Backend
+- Python  
+- Django  
+- Java  
+- REST APIs  
+- SQL  
+- MySQL  
+- PostgreSQL  
+
+### Cloud & Systems
+- AWS  
+- EC2  
+- IAM  
+- CloudWatch  
+- Linux  
+
+### Tools
+- Git  
+- GitHub  
+- VS Code  
+- Postman  
+- Jira  
+- Service Studio  
+- OutSystems  
 
 ---
 
 ## 🚀 Projects
 
-### ☁️ Flask Web App Hosting with S3 Integration
-- Deployed a Flask application on **EC2**
-- Integrated **S3** using IAM roles for secure access
-- Automated deployment and data operations using **Python (Boto3)**
-- Configured **CloudWatch Logs and Alarms** for performance monitoring  
+Selected work demonstrating how I identify problems, design solutions, and deliver impact.
 
-**Tech:** EC2, S3, IAM, Python, Flask, CloudWatch
+### OIBSIP Projects
+Backend-focused exercises strengthening programming fundamentals.
+
+### FreeAI – Django E-Commerce
+Full-stack Django-based e-commerce platform with AI-driven features.
+
+### Healthy Gut AI (n8n + Gemini)
+Automation-based AI workflow for handling health-related queries.
+
+### AWS Cloud & DevOps Portfolio
+Hands-on AWS infrastructure setups demonstrating best practices in monitoring and access control.
+
+### Math Adaptive Learning Game
+Educational system that dynamically adjusts difficulty based on user performance.
 
 ---
 
@@ -90,20 +116,11 @@ I believe in boring, stable systems that *just work*. Flash is optional. Uptime 
 
 ---
 
-## 🏆 Certifications & Education
-
-- 🟡 **AWS Certified Cloud Practitioner** (In Progress)
-- 🎓 **Bachelor of Technology – ECE**  
-  Vignan’s Institute of Information and Technology  
-  GPA: 7.8 (2018 – 2022)
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:umamahesh7901367554@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Mahesh-363">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
@@ -116,5 +133,5 @@ I believe in boring, stable systems that *just work*. Flash is optional. Uptime 
 ---
 
 <p align="center">
-  <em>Reliable systems. Clean automation. Cloud done right.</em>
+  <em>Good engineering earns trust quietly — until the moment it truly matters.</em>
 </p>
