@@ -1,82 +1,120 @@
-<h1 align="center">👋 Hi there, I'm Vommi Uma Mahesh</h1>
+<h1 align="center">👋 Hi, I'm Vommi Uma Mahesh</h1>
+<h3 align="center">Cloud Support Engineer | AWS | Linux | Python Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FFFF&center=true&vCenter=true&width=700&lines=Cloud+Support+Engineer+☁️;AWS+%7C+Python+%7C+Linux+Explorer+🚀;Automating+Cloud+Workflows+and+Deployments+⚙️;Always+Learning+New+Things+🌱" alt="Typing Animation">
+  <a href="https://mahesh-pre-portfolio.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/vommi-uma-mahesh">LinkedIn</a> •
+  <a href="mailto:umamahesh7901367554@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=38BDF8&center=true&vCenter=true&width=750&lines=Cloud+Support+Engineer+with+1+Year+of+AWS+Experience;EC2+%7C+S3+%7C+IAM+%7C+CloudWatch;Linux+Troubleshooting+%7C+Python+%28Boto3%29+Automation;Building+Reliable+and+Scalable+Cloud+Solutions" />
 </p>
 
 ---
 
-## 🧭 Table of Contents
-- [🌩️ About Me](#-about-me)
-- [⚙️ Tech Stack](#%EF%B8%8F-tech-stack)
-- [🚀 Featured Projects](#-featured-projects)
-- [📊 GitHub Stats](#-github-stats)
-- [🏆 Achievements & Certifications](#-achievements--certifications)
-- [🌐 Connect with Me](#-connect-with-me)
+## ☁️ About Me
+
+I’m a **Cloud Support Engineer with 1 year of hands-on experience** working on real AWS infrastructure in a production environment.
+
+- 💼 Former **Cloud Associate at Wipro (Dec 2022 – Jan 2024)**
+- ☁️ Experience with **EC2, S3, IAM, CloudWatch, Lambda, RDS, VPC**
+- 🐧 Strong in **Linux troubleshooting** and **CLI-based operations**
+- 🐍 Automate AWS workflows using **Python (Boto3)** to reduce manual effort
+- 📊 Focused on **monitoring, reliability, and cost-aware cloud design**
+
+I believe in boring, stable systems that *just work*. Flash is optional. Uptime isn’t.
 
 ---
 
-## 🌩️ About Me
-🌟 Cloud enthusiast passionate about **building, managing, and automating scalable AWS infrastructures**.  
-💡 Hands-on with **EC2, S3, IAM, CloudWatch**, and strong in **Linux & Python scripting**.  
-⚙️ I simplify complex workflows through automation and efficient architecture design.  
-📚 Learning DevOps practices (CI/CD, Docker, IaC) — aiming to grow into a Cloud Solutions Architect.
+## 🧰 Tech Stack
 
----
-
-## ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,python,linux,bash,git,github,vscode,html,css,flask,docker,terraform&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,python,linux,bash,git,github,vscode,docker,flask&theme=dark" />
 </p>
 
+**Cloud & AWS**
+- EC2, S3, IAM, Lambda, RDS  
+- CloudWatch, CloudTrail  
+- VPC, Auto Scaling, ELB  
+
+**Programming & Automation**
+- Python (Boto3)
+- Bash scripting
+- SQL / MySQL
+
+**OS & Tools**
+- Linux (Ubuntu, Amazon Linux)
+- Git, GitHub
+- Jira, CLI tools
+
 ---
 
-## 🚀 Featured Projects
-| Project | Description | Tech Used |
-|----------|--------------|------------|
-| ☁️ **AWS Automation Toolkit** | CLI tool to automate EC2, S3, and IAM workflows using Python + Boto3. | AWS, Python, Boto3 |
-| 🧭 **Serverless Portfolio Site** | Hosted on S3 + CloudFront with Lambda backend for form handling. | AWS, S3, CloudFront, Lambda |
-| ⚡ **CloudWatch Notifier Bot** | Alerts from CloudWatch delivered to Slack via SNS + Lambda. | CloudWatch, SNS, Python |
-| 🐳 **Dockerized Flask App** | Flask app containerized with Docker and deployed via GitHub Actions. | Flask, Docker, GitHub Actions |
+## 💼 Work Experience
+
+### 🏢 Cloud Support Engineer  
+**Wipro | Noida, Uttar Pradesh**  
+**Dec 2022 – Jan 2024**
+
+- Deployed and maintained **EC2 instances** using custom AMIs and automated User Data scripts  
+- Managed **S3 buckets** with versioning, lifecycle policies, and IAM-based access control  
+- Automated **S3 backups and CloudWatch monitoring** using Python (Boto3), reducing manual work by ~40%  
+- Provided **Linux server troubleshooting** and application-level support  
+- Assisted teams with **IAM policies, roles, and least-privilege access design**  
+- Built internal Python tools for recurring AWS tasks (snapshots, S3 sync, health checks)
+
+---
+
+## 🚀 Projects
+
+### ☁️ Flask Web App Hosting with S3 Integration
+- Deployed a Flask application on **EC2**
+- Integrated **S3** using IAM roles for secure access
+- Automated deployment and data operations using **Python (Boto3)**
+- Configured **CloudWatch Logs and Alarms** for performance monitoring  
+
+**Tech:** EC2, S3, IAM, Python, Flask, CloudWatch
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahesh-363&show_icons=true&theme=tokyonight&hide_border=true" height="170em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh-363&theme=tokyonight&hide_border=true" height="170em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahesh-363&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh-363&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-363&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-363&theme=react-dark&area=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-363&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 Achievements & Certifications
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahesh-363&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
+## 🏆 Certifications & Education
 
-- 🥇 AWS Certified Cloud Practitioner (In Progress)  
-- 🎓 Cloud Associate — Wipro (1 year)  
-- 🧠 Completed Data Analytics Internship (Oasis Infobyte)
+- 🟡 **AWS Certified Cloud Practitioner** (In Progress)
+- 🎓 **Bachelor of Technology – ECE**  
+  Vignan’s Institute of Information and Technology  
+  GPA: 7.8 (2018 – 2022)
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="mailto:umamahesh7901367554@gmail.com"><img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Mahesh-363"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/vommi-uma-mahesh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:umamahesh7901367554@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Mahesh-363">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vommi-uma-mahesh">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>"Keep learning, keep building — the cloud is limitless ☁️"</em>
+  <em>Reliable systems. Clean automation. Cloud done right.</em>
 </p>
